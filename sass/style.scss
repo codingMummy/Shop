@@ -31,14 +31,32 @@ body {
 
 .jumbotron {
     height: 90vh;
-    background-image: url(https://i.postimg.cc/y8Gg9k9X/art-assorted-background-1619844.jpg);
+    background-image: url(https://i.postimg.cc/CLzMfDTv/architect-brush-coffee-5305.jpg);
     background-size: cover;
     margin-bottom: 20px;
     color: black;
+
+}
+
+.welcome {
+    text-align: center;
 }
 
 .btn {
     color: white;
+    background-color: #ff5722;
+    border-color: #FF5722;
+    font-size: 1.50rem;
+}
+
+.display-4 {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.lead {
+    font-style: italic;
+    font-size: 2.75rem;
 }
 
 .products {
@@ -55,7 +73,7 @@ body {
 
 
 .orange {
-    color: #f0932b;
+    color: #FF5722;
     font-size: 2em;
 }
 
