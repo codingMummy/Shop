@@ -1,0 +1,62 @@
+/*font-family: 'Roboto Condensed', sans-serif;*/
+html {
+  box-sizing: border-box;
+  -ms-overflow-style: scrollbar;
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+.navbar-brand {
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+
+.container {
+  width: 80%;
+}
+
+.col-md-7 {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.jumbotron {
+  height: 90vh;
+  background-image: url(https://i.postimg.cc/y8Gg9k9X/art-assorted-background-1619844.jpg);
+  background-size: cover;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.btn {
+  color: white;
+}
+
+.products {
+  padding: 5% 15%;
+}
+
+.card-body,
+.property,
+.box {
+  text-align: center;
+}
+
+.orange {
+  color: #f0932b;
+  font-size: 2em;
+}
+
+.footer {
+  padding: 0;
+}
+/*# sourceMappingURL=style.css.map */
