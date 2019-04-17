@@ -52,6 +52,7 @@ body {
 .display-4 {
     text-transform: uppercase;
     font-weight: 700;
+    font-size: 3.9rem;
 }
 
 .lead {
@@ -71,6 +72,9 @@ body {
     text-align: center;
 }
 
+.box {
+    flex: 0 0 33.333%;
+}
 
 .orange {
     color: #FF5722;

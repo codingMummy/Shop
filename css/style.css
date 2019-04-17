@@ -51,6 +51,7 @@ body {
 .display-4 {
   text-transform: uppercase;
   font-weight: 700;
+  font-size: 3.9rem;
 }
 
 .lead {
@@ -66,6 +67,11 @@ body {
 .property,
 .box {
   text-align: center;
+}
+
+.box {
+  -ms-flex: 0 0 33.333%;
+      flex: 0 0 33.333%;
 }
 
 .orange {
